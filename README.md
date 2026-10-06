@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sid
 
-<!--
-**siddhant-tandale/siddhant-tandale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Purdue University (Class of 2029) working on robotics and autonomous systems, with a focus on motion planning and control.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MARS Lab, Purdue University** (Mechanisms and Robotic Systems Lab, Prof. Yu She)  
+Undergraduate Research Assistant, Sept 2026 to present  
+Robot learning: data collection for policy-learning experiments on a roller gripper.
+
+**ARES VIP Team, Purdue University** (autonomous drone racing)  
+Two semesters  
+- Compared NMPC and NRHDG controllers using ROS 2 Humble, ArduPilot SITL, Gazebo, and MAVROS
+- Benchmarked classical and learned planners (A*, RRT*, MPC) on the Argoverse 2 dataset
+- Co-authored poster at the Purdue Spring Research Expo
+
+## Experience
+
+**Reliable Robotics**, Avionics Apprentice  
+- Automated electrical testing in Python with SCPI-controlled instruments
+- Built and tested wiring harnesses
+- Runway centerline tracking with OpenCV
+
+**Purdue University**, Undergraduate Teaching Assistant, ENGR 133
+
+## Tools
+
+Python, ROS 2, Gazebo, ArduPilot, MAVROS, OpenCV, NumPy, Matplotlib, Git
+
+## Featured project
+
+[PathPilot](https://github.com/siddhant-tandale/PathPilot): A* path planning on randomly generated occupancy grids with an octile heuristic and Matplotlib visualization.
